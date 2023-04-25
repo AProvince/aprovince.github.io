@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: writing
+permalink: /writing/
+description: A variation of writing samples that turn a complex topic into accurate and easy-to-understand material
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Writing Samples, Neuroscience Writing ]
 horizontal: false
 ---
 
