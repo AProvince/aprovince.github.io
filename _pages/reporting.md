@@ -4,7 +4,7 @@ permalink: /reporting/
 title: reporting
 description: Some samples of my digital communication skills -- video production and visual projects from my time as a reporter and journalist
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 [Amherst Wire Portfolio](https://amherstwire.com/staff_name/alex-province/)
