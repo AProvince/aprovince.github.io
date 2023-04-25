@@ -1,80 +1,25 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Removing Oxytocin from an Animal Has Long-Term Impacts on Social Behavior
+description: By Alex Province
+img: assets/img/101.jpg
+importance: 5
+category: Neuroscience Writing
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The development of sociability in children as they develop is vital to life. A recent study performed by the Society for Neuroscience in the Journal of Neuroscience targeted oxytocin as the subject of their research, as the hormone is commonly known as the “love hormone (Clark, 2021).” Oxytocin addresses the second Principle of Hormone Action, as the hormone acts by changing the probability of evoked behavior. Oxytocin is released in the brain during social interactions of meaning such as a moment between a child and a parent or a couple in a romantic interaction. The study references oxytocin and its connection to social circuit development by examining its role in zebrafish (Clark, 2021).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Zebrafish have similar evolutionary neural circuity to humans and are highly social animals. Their short lifespan makes them ideal for observing scientifically over a lifetime, so scientists removed specific oxytocin-producing neurons early in fish development to better understand the social development of the Zebrafish (Clark, 2021). Scientists examined the impact of the removal of the oxytocin-producing neurons come adulthood. They tested this by separating one fish from the rest of the group with a clear barrier, and the scientists found that socially healthy solitary zebrafish would remain close to the see-through barrier, as if they wished to participate in the group on the other side. Scientists observed the zebrafish with the oxytocin neurons removed during their early lives were less interested to socialize in adulthood (Clark, 2021). 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+On the flip side, removing the same oxytocin neurons while in adulthood had no effect on the social behavior of the fish. This implies that there is a vital developmental window in early development where oxytocin forms the social circuit. Scientists discovered that eliminating the oxytocin in early development also had a negative impact on other cognitive functions, such as attention, reward, and decision-making mechanisms (Clark, 2021). 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+These findings show that oxytocin may play an important role in crafting our social characteristics in early development, but further research is necessary to better understand how this is implicated in human behavior.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+---
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<b>References:</b> 
+
+Clark, Kareem. “Zebrafish without ‘Love Hormone’ Neurons Show No Desire to Socialize with Each Other.” Massive Science, 8 Oct. 2021, https://massivesci.com/notes/zebrafish-neurons-brain-oxytocin/. 

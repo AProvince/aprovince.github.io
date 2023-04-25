@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: The Uneven Effect of the Pandemic on Minority Communities
+description: By Alex Province
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://alexanderprovince.wixsite.com/raceandcoronavirus
 importance: 3
-category: work
+category: Writing Samples
 ---
 
 Every project has a beautiful feature showcase page.

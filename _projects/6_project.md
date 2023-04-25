@@ -1,80 +1,27 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Music Works as a Therapeutic Intervention for Inpatient Mood
+description: By Alex Province
+img: assets/img/102.jpg
+importance: 6
+category: Neuroscience Writing
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Music is a creative art that changes lives beyond its artistic properties. The art form receives some recognition in the neuroscience world for it affects the brain and human cognition. A primary study titled Music as a Therapeutic Intervention on an Inpatient Neuroscience Unit by Marion A. Phipps, Diane L. Carroll, and Anastasia Tsiantoulas discusses these profound impacts (Phipps).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Researchers examined the impact of a music intervention (MI) on mood and pain states and physiological parameters in a neuroscience patient (Phipps). The study looked to find the difference of mood categories in patients after being exposed to music intervention. The researchers randomized subjects into two groups, a usual care (UC) Group with 29 participants or the other group, UC plus musical intervention, with 24 participants. The members of the study were a mean age of 55.8 years with “similar baseline characteristics (Phipps)” and had 16 males to 37 females (Phipps).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Researchers used a correlational study to examine the pain and mood states of participants. For patients who received usual care in addition to musical intervention, there were noticeable decreases in “heart rate (t = −2.1, p < 0.04), respirations (t = −3.4, p < 0.001), perceived anxiety (t = −4.1, p < 0.000), depression (t = −4.3, p < 0.000), and total mood score (t = −4.1, p < 0.000) (Phipps)” compared to patients who only received usual care. The researchers concluded that including MI as a therapeutic intervention seemed to decrease the emotional weight of hospitalization for neuroscience patients (Phipps).
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+It can be argued the study is also a somatic intervention, as musical intervention and musical exposure affect both the brain and the body. The temporal lobe at each side of the brain has an auditory cortex. The cerebellum controls rhythm, balance, and muscles moving, so these areas of the brain may have contributed to a participants’ ability to receive musical therapy in a positive light. The study scored heart rate, respirations, perceived anxiety, depression, and total mood score as areas of focus.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+The brain experiences high levels of neuroplasticity after being exposed to music. It may come as a surprise -- there are existing studies that provide evidence on a connection between neuroplasticity in musicians and neuroplasticity that extends to other similar areas of application, like language and learning.
+
+---
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+<b>References:</b> 
 
+	Phipps, Marion A., et al. “Music as a Therapeutic Intervention on an Inpatient Neuroscience Unit.” Complementary Therapies in Clinical Practice, Churchill Livingstone, 15 May 2010, www.sciencedirect.com/science/article/abs/pii/S1744388109001340. 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+URL: https://www.sciencedirect.com/science/article/abs/pii/S1744388109001340
