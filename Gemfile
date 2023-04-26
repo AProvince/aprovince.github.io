@@ -19,6 +19,7 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'paginate'
     gem 'github-pages'
+    gem 'jekyll-mentions'
 end
 group :other_plugins do
     gem 'feedjira'
