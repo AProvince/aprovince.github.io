@@ -17,7 +17,6 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'paginate'
     gem 'github-pages'
     gem 'jekyll-mentions'
 end
