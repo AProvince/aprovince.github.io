@@ -74,13 +74,13 @@ github_username: # Aprovince
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: alex-province-9aab8715b # your LinkedIn user name
+linkedin_username: 'alex-province-9aab8715b' # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
-medium_username: alexprovince23 # your Medium username
+medium_username: '@alexprovince23' # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 osf_id: # your OSF ID
@@ -119,9 +119,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Fun Blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: Fun blog for non-technical topics such as food, sports, and movie reviews
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -159,12 +159,13 @@ external_sources:
   - name: medium.com
     rss_url: https://medium.com/feed/@alexprovince23
 
+
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
 collections:
   - external_feed
-  
+
 collections:
   news:
     defaults:
