@@ -19,6 +19,7 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'github-pages', group: :jekyll_plugins
     gem 'jekyll-mentions'
+    gem 'faraday-retry'
 end
 group :other_plugins do
     gem 'feedjira'
