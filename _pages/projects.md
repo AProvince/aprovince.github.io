@@ -4,7 +4,7 @@ title: writing
 permalink: /writing/
 description: A variation of writing samples that turn a complex topic into accurate and easy-to-understand material
 nav: true
-nav_order: 2
+nav_order: 1
 display_categories: [Writing Samples, Neuroscience Writing ]
 horizontal: false
 ---
