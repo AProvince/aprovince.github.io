@@ -16,7 +16,7 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-Technical Writer with a four-year journalism degree writing in AP Style, MLA, and Chicago Style. Extremely fascinated with technology from a young age, and currently working in the cloud software industry for Motive, selling subscription-based cloud software for operations management that integrates with IOT hardware to provide data insights using AI.
+Technical Writer with a four-year journalism degree writing in AP Style, MLA, and Chicago Style. Extremely fascinated with technology from a young age and currently working in the cloud software industry for Motive, selling subscription-based cloud software for operations management that integrates with IOT hardware to provide data insights using AI.
 
 Key strengths include document formatting, docs-as-code documentation (GitHub, VSCode), markup languages including HTML and Markdown, 95th percentile WPM, and familiar with most writing and editing applications, active voice. Excellent verbal communication, comfortable interfacing with SMEs including developers and key business stakeholders. Naturally curious to continuously learn and self-teach to stay up to date with rapidly changing technology.
 
